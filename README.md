@@ -1,4 +1,4 @@
-# Raiyan Bin Sarwar
+# Vishnu Sakinam
 Welcome to my personal portfolio! I’m a graduate from University of South Dakota.
 
 ## About Me
